@@ -1,5 +1,13 @@
-- 👋 Hi, I’m Alvin Noval M
-- 👀 I’m interested in Programming and 3d Modeling
+
+
+### MAIL
+
+[1nivla1alvin@gmail.com](mailto:1nivla1alvin@gmail.com)  
+
+### SOCIAL
+
+[Instagram](https://www.instagram.com/alvinnvll)  
+[Linkedin](https://www.linkedin.com/in/alvinnivla/)
 
 
 <!---
